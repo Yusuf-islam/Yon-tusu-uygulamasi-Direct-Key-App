@@ -1,0 +1,22 @@
+    class Operation
+    {
+        public char[,] UpOP(char[,] array, int location_X, int location_Y)
+        {
+              
+           
+        }
+        public char[,] DownOP(char[,] array, int location_X, int location_Y)
+        {
+            
+        }
+        public char[,] LeftOP(char[,] array, int location_X, int location_Y)
+        {
+
+            
+        }
+        public char[,] RightOP(char[,] array, int location_X, int location_Y)
+        {
+
+          
+        }
+    }
